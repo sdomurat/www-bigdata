@@ -32,11 +32,14 @@ W pracach zespołowych należy zastosować się do wskazówek opisanych w artyku
       by Joe Hellerstein.
     * [Chapter 11. A Biased Take on a Moving Target: Complex Analytics](http://www.redbook.io/ch11-complexanalytics.html)
       by Michael Stonebraker.
+    * [Chapter 12: A Biased Take on a Moving Target: Data Integration](http://www.redbook.io/ch12-dataintegration.html)
+      by Michael Stonebraker
 
 ---
 
 1. [TRIFACTA Wrangler](https://www.trifacta.com/products/wrangler/):
     * [Online Training](https://www.trifacta.com/support/articles/topics/125211/).
+1. [OpenRefine](http://openrefine.org/).
 
 ----
 
@@ -241,7 +244,5 @@ Obrazki, tabelki, itp. Opisy takie jak w książce T. Piketty, „Kapitał w XXI
    [Reinventing explanation](http://michaelnielsen.org/reinventing_explanation/index.html).
 1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/)
    – Vincent Walsh, Prof. Neuroscience UCL (interview).
-1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) :heart_eyes:, :ok_hand:, :beetle:, :gem:.
-1. [Accelerated Mobile Pages Project](https://www.ampproject.org) by Google
 1. [Bullshit Prevention Protocol (BPP)](http://www.lastwordonnothing.com/2014/04/29/the-pocket-guide-to-bullshit-prevention/);
    zob. też [Calling Bullshit In the Age of Big Data](http://callingbullshit.org)

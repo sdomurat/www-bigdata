@@ -47,4 +47,4 @@
 
 | kiedy?     | kto?            | tytuł |
 | :--------- | :-------------- | :---- |
-| 12.04.2018 | Szymon Domurat  | Ustawa RODO, nowe prawo o ochronie danych osobowych. Deduplikacja w MongoDB. |
+| 12.04.2018 | Szymon Domurat  | [Ustawa RODO, nowe prawo o ochronie danych osobowych. Deduplikacja w MongoDB.](https://github.com/sdomurat/mgr/tree/master/referaty/12.04) |

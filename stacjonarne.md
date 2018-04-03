@@ -46,4 +46,4 @@
 ## Referaty, semestr letni 2017/18
 
 | kiedy?     | kto?            | tytuł |
-| :--------- | :-------------- | :---- |
+| 12.04.2018 | Szymon Domurat  | Ustawa RODO, nowe prawo o ochronie danych osobowych. Deduplikacja w MongoDB. |

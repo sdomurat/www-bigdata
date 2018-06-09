@@ -19,7 +19,7 @@
 [Porównywarka kursów bukmacherskich „BETCOM”](https://github.com/mlabuda2/licencjat).
 
 1. Marcin Moroz.
-[Metodologie zwinne w pracy zespołu 2 linii wsparcia](https://github.com/mo-net/licencjacka).
+[Metodologie zwinne w pracy zespołu 2 linii wsparcia](https://github.com/mo-net/licencjacka). **DONE**
 
 1. Klimaszewski Karol.
 [Sklep internetowy „Furteco”](https://github.com/KKlimaszewski1/licencjat).

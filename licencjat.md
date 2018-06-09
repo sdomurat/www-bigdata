@@ -25,7 +25,7 @@
 [Sklep internetowy „Furteco”](https://github.com/KKlimaszewski1/licencjat).
 
 1. Rafał Kulasiewicz, Maciej Marzec, Ewelina Mazur.
-[Projekt „Inteligentny dom”](https://github.com/dzyzus/licencjat-smarthome).
+[Projekt „Inteligentny dom”](https://github.com/dzyzus/licencjat-smarthome). **DONE**
 
 1. Jacek Bańkowski.
 [Testy mutacyjne w oparciu o framework PIT](https://github.com/jbankowski/licencjat).

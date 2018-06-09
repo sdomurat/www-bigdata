@@ -28,7 +28,7 @@
 [Projekt „Inteligentny dom”](https://github.com/dzyzus/licencjat-smarthome). **DONE**
 
 1. Jacek Bańkowski.
-[Testy mutacyjne w oparciu o framework PIT](https://github.com/jbankowski/licencjat).
+[Testy mutacyjne w oparciu o framework PIT](https://github.com/jbankowski/licencjat). **DONE**
 
 1. Victor Debone.
 [Distributed consensus with WebRTC](https://github.com/seminarium/my-project-debone).

@@ -21,7 +21,7 @@
 [Zastosowanie nauczania maszynowego do zarządzania transportem miejskim](https://github.com/dkotowicz/praca_magisterska).
 
 1. Szymon Domurat.
-[Anonimizacja danych jako technika ochrony i metoda pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr).
+[Anonimizacja danych jako techniki ochrony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr).
 
 1. Piotr Jaszczyszyn.
 [Aplikacja do przetwarzania i wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr).

@@ -24,23 +24,18 @@
 [Anonimizacja i deduplikacja danych jako techniki ochrony i metody pracy nad integracją dużych zbiorów danych](https://github.com/sdomurat/mgr).
 
 1. Piotr Jaszczyszyn.
-[Aplikacja do przetwarzania i~wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr)
+[Aplikacja do przetwarzania i wizualizacji danych ze źródeł publicznych](https://github.com/pjaszczyszyn/mgr).
 
 1. Damian Kalinowski, Rafał Lewandowski.
 [Aplikacja analizująca mowę jako narzędzie do poprawy jakości wypowiedzi](https://github.com/lafreak/mgr).
 
-    * [Tidy Data](https://www.jstatsoft.org/article/view/v059i10/v59i10.pdf).
-
 1. Michał Kisielewski. [Edukacyjna aplikacja do nauki języka angielskiego dla dzieci na system Android](https://github.com/zyng/pracamgr).
 
 1. Jakub Puchalski, Sebastian Piekarek.
-[System zarządzania, rozpoznawania treści i zapisu paragonów.](https://github.com/RPuchacz/Seminarium.git).
-
-    * [Tesseract Open Source OCR Engine](https://github.com/tesseract-ocr/tesseract).
-    * [Compressing and enhancing hand-written notes](https://mzucker.github.io/2016/09/20/noteshrink.html); link do [repozytorium](https://github.com/delneg/noteshrinker-django).
+[System zarządzania, rozpoznawania treści i zapisu paragonów](https://github.com/RPuchacz/Seminarium.git).
 
 1. Aleksandra Tejszerska, Kacper Narożnik, Wojciech Łojkowski.
-[Modyfikacja składowych społecznościowych na potrzeby internetowego serwisu muzycznego.](https://github.com/wlojkowski/Praca_Magisterska).
+[Analiza porównawcza sztucznej inteligencji w grach komputerowych](https://github.com/wlojkowski/Praca_Magisterska).
 
 
 ## Referaty, semestr letni 2017/18

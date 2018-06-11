@@ -16,19 +16,22 @@
 ## Tematy prac licencjackich
 
 1. Artur Gołębiewski, Mateusz Kaminski, Mateusz Labuda, Martin Madej.
-[Porównywarka kursów bukmacherskich „BETCOM”](https://github.com/mlabuda2/licencjat).
+[Porównywarka kursów bukmacherskich „BETCOM”](https://github.com/mlabuda2/licencjat). **DONE**
 
 1. Marcin Moroz.
-[Metodologie zwinne w pracy zespołu 2 linii wsparcia](https://github.com/mo-net/licencjacka).
+[Metodologie zwinne w pracy zespołu 2 linii wsparcia](https://github.com/mo-net/licencjacka). 
 
 1. Klimaszewski Karol.
 [Sklep internetowy „Furteco”](https://github.com/KKlimaszewski1/licencjat).
 
 1. Rafał Kulasiewicz, Maciej Marzec, Ewelina Mazur.
-[Projekt „Inteligentny dom”](https://github.com/dzyzus/licencjat-smarthome).
+[Projekt „Inteligentny dom”](https://github.com/dzyzus/licencjat-smarthome). **DONE**
 
 1. Jacek Bańkowski.
-[Testy mutacyjne w oparciu o framework PIT](https://github.com/jbankowski/licencjat).
+[Testy mutacyjne w oparciu o framework PIT](https://github.com/jbankowski/licencjat). **DONE**
+
+1. Victor Debone.
+[Distributed consensus with WebRTC](https://github.com/seminarium/my-project-debone).
 
 
 ## Referaty, semestr letni 2017/18
